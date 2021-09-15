@@ -1,0 +1,30 @@
+h1{
+  font-family: Montserrat Black;
+  font-size: 75px;
+  text-align: center;
+}
+body{
+  background: linear-gradient(25deg,#d64c7f,#ee4758 50%);
+}
+p{
+  font-family: Helvetica;
+  font-size: 15px;
+  color: white;
+}
+.video, .images, .audio{
+  display: flex;
+  justify-content:space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.concert{
+  font-weight: bold;
+  font-size: 20px;
+}
+.map{
+  margin: 20px;
+}
+.gif{
+  margin-left: 780px;
+  margin-bottom: 60px;
+}
